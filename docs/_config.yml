@@ -1,1 +1,3 @@
 theme: jekyll-theme-slate
+title: JPA Hibernate Playground
+description: This is a maven archetype to generate a standalone application with the minimum setup to have fun with JPA and Hibernate.
