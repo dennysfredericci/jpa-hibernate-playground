@@ -11,7 +11,10 @@
 ## Usage
 
 ```sh
-mvn archetype:generate -B -DarchetypeGroupId=io.github.dennysfredericci -DarchetypeArtifactId=jpa-hibernate-playground -DarchetypeVersion=1.0.0 -DgroupId=com.company -DartifactId=project -Dversion=1.0-SNAPSHOT -Dpackage=com.company.project -Djdk-version=11
+mvn archetype:generate -B -DarchetypeGroupId=io.github.dennysfredericci \
+-DarchetypeArtifactId=jpa-hibernate-playground -DarchetypeVersion=1.0.0 \
+-DgroupId=com.company -DartifactId=project -Dversion=1.0-SNAPSHOT \
+-Dpackage=com.company.project -Djdk-version=11
 ```
 
 ## Contributing
