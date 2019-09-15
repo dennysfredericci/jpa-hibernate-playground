@@ -35,7 +35,6 @@
                     <autoVersionSubmodules>true</autoVersionSubmodules>
                     <tagNameFormat>@{project.version}</tagNameFormat>
                     <releaseProfiles>release</releaseProfiles>
-                    <pushChanges>false</pushChanges>
                 </configuration>
             </plugin>
             <plugin>
