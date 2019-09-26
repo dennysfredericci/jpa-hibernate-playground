@@ -1,5 +1,5 @@
 # Welcome to JPA Hibernate Playground Archetype 👋
-![Version](https://img.shields.io/maven-central/v/br.com.fredericci/jpa-hibernate-playground?style=flat-square)
+![Version](https://img.shields.io/maven-central/v/io.github.dennysfredericci/jpa-hibernate-playground?style=flat-square)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](http://dennysfredericci.github.io/jpa-hibernate-playground)
 [![CircleCI](https://img.shields.io/circleci/build/github/dennysfredericci/jpa-hibernate-playground)](https://circleci.com/gh/dennysfredericci/jpa-hibernate-playground/tree/master)
 [![Twitter: fredericci](https://img.shields.io/twitter/follow/fredericci?style=social)](https://twitter.com/fredericci)
